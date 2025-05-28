@@ -66,10 +66,10 @@
 ## 📊 Stats GitHub
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=tristanversel&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=tristanversel&theme=light&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=tristanversel&limit=5&theme=light&combine_all_yearly_contributions=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanversel&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tristanversel&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=tristanversel&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=tristanversel&limit=5&combine_all_yearly_contributions=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanversel&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
