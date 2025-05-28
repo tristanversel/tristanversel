@@ -57,9 +57,9 @@
 ## ✨ Quelques projets cools
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| [PhishAndTips](#) | Une plateforme de sensibilisation et de formation au phishing | Java, Svelte |
-| [ProjetS8](#) | Bot alimenté par L'IA renseignant des information sur une université | React, Angular, Tailwind |
-| [Landing Creative](#) | Page d’accueil animée pour une startup | Next.js, Framer Motion, SCSS |
+| **<a href="https://github.com/maximezim/PhishAndTips">PhishAndTips</a>** | Une plateforme de sensibilisation et de formation au phishing | Java, Svelte, TypeScript |
+| **<a href="https://github.com/f7ed0/ProjetS8">ProjetS8</a>** | Bot alimenté par L'IA renseignant des information sur le campus Mont-Houy | Python, Angular, TypeScript |
+| **<a href="https://github.com/f7ed0/fog_computing">FogComputing</a>** | Plateforme de streaming edge computing utilisant la signature SIS pour garantir l’intégrité des paquets via MQTT | Shell, React, JavaScript |
 
 <br> 
 
