@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,svelte,vue,html,css,tailwind,js,figma,docker,git" />
 </div>
 
-<br>  
+<br/>  
 
 ### ✨ Quelques projets cools
 | Projet | Description | Technologies |
