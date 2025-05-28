@@ -16,7 +16,7 @@
 
 🎯 Mon objectif ? Créer des interfaces intuitives, esthétiques et performantes.
 
-
+---
 
 ### 🧰 Stack Technique
 
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,svelte,vue,html,css,tailwind,js,figma,docker,git" />
 </div>
 
-
+---
 
 ### ✨ Quelques projets cools
 
@@ -34,7 +34,7 @@
 | [TaskZone](#) | App de gestion de tâches avec drag & drop | React, Zustand, Tailwind |
 | [Landing Creative](#) | Page d’accueil animée pour une startup | Next.js, Framer Motion, SCSS |
 
-
+---
 
 ### 📊 Stats GitHub
 
@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
-
+---
 
 ### 🌐 Me contacter
 
