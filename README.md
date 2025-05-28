@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Lover;Pixel-Perfect+Craftsman;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
----
 
 ## 🙋‍♂️ Qui suis-je ?
 
@@ -17,7 +16,7 @@
 
 🎯 Mon objectif ? Créer des interfaces intuitives, esthétiques et performantes.
 
----
+
 
 ### 🧰 Stack Technique
 
@@ -25,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,html,css,tailwind,js,figma,redux,git" />
 </div>
 
----
+
 
 ### ✨ Quelques projets cools
 
@@ -35,7 +34,7 @@
 | [TaskZone](#) | App de gestion de tâches avec drag & drop | React, Zustand, Tailwind |
 | [Landing Creative](#) | Page d’accueil animée pour une startup | Next.js, Framer Motion, SCSS |
 
----
+
 
 ### 📊 Stats GitHub
 
@@ -45,18 +44,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
----
+
 
 ### 🌐 Me contacter
 
 <div align="center">
-  <a href="mailto:ton.email@mail.com">
+  <a href="mailto:verseltristan@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tonprofil">
+  <a href="https://www.linkedin.com/in/tristan-versel-194161210/?originalSubdomain=fr">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://helyt.eu">
     <img src="https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
