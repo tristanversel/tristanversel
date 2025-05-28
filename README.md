@@ -12,7 +12,7 @@
 
 🎨 Grand fan de design soigné, d’animations subtiles et de performance web.
 
-🚀 Je maîtrise des technos comme **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, etc.
+🚀 Je maîtrise des technos comme **Svelte**, **Angular**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, etc.
 
 🎯 Mon objectif ? Créer des interfaces intuitives, esthétiques et performantes.
 
@@ -21,7 +21,7 @@
 ### 🧰 Stack Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,html,css,tailwind,js,figma,redux,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,svelte,vue,html,css,tailwind,js,figma,docker,git" />
 </div>
 
 
