@@ -8,9 +8,7 @@
 
 ## 🙋‍♂️ Qui suis-je ?
 * 🎓 Étudiant en Informatique au sein de l'INSA Hauts-De-France .
-
 * 🎨 Passioné par le développement frontend, grand fan de design soigné, d’animations subtiles et de performance web.
-
 * 🚀 Je maîtrise des technos comme **Svelte**, **Angular**, **React**, **TypeScript**, **Tailwind CSS**, etc.
 
 <br> 
@@ -65,13 +63,15 @@
 
 ## 📊 Stats GitHub
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=tristanversel&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=tristanversel&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=tristanversel&limit=5&combine_all_yearly_contributions=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanversel&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api?username=tristanversel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=tristanversel&theme=tokyonight&hide_border=false" />
+<img src="https://github-contributor-stats.vercel.app/api?username=tristanversel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tristanversel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
+
 
 <br>
 
