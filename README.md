@@ -1,5 +1,5 @@
-<h1 align="center">Hey, moi c'est [Ton Prénom] ✨</h1>
-<h3 align="center">Développeur Frontend • Passionné par les interfaces élégantes & l'UX fluide</h3>
+<h1 align="center">Hey, moi c'est Tristan ✨</h1>
+<h3 align="center">Développeur Frontend</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Lover;Pixel-Perfect+Craftsman;Always+learning+something+new!" alt="Typing SVG" />
