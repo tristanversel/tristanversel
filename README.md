@@ -56,7 +56,7 @@
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | **<a href="https://github.com/maximezim/PhishAndTips">PhishAndTips</a>** | Une plateforme de sensibilisation et de formation au phishing | Java, Svelte, TypeScript |
-| **<a href="https://github.com/f7ed0/ProjetS8">ProjetS8</a>** | Bot alimenté par L'IA renseignant des information sur le campus Mont-Houy | Python, Angular, TypeScript |
+| **<a href="https://github.com/f7ed0/ProjetS8">ProjetS8</a>** | Bot alimenté par L'IA renseignant des informations sur le campus Mont-Houy | Python, Angular, TypeScript |
 | **<a href="https://github.com/f7ed0/fog_computing">FogComputing</a>** | Plateforme de streaming edge computing utilisant la signature SIS pour garantir l’intégrité des paquets via MQTT | Shell, React, JavaScript |
 
 <br> 
