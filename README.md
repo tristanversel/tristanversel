@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Lover;Pixel-Perfect+Craftsman;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
+<br> 
 
 ## 🙋‍♂️ Qui suis-je ?
 
@@ -16,8 +17,9 @@
 
 🎯 Mon objectif ? Créer des interfaces intuitives, esthétiques et performantes.
 
+<br> 
 ---
-
+<br> 
 
 ### 🧰 Stack Technique
 
@@ -25,8 +27,9 @@
   <img src="https://skillicons.dev/icons?i=ts,react,svelte,vue,html,css,tailwind,js,figma,docker,git" />
 </div>
 
+<br> 
 ---
-
+<br> 
 
 ### ✨ Quelques projets cools
 
@@ -36,8 +39,9 @@
 | [TaskZone](#) | App de gestion de tâches avec drag & drop | React, Zustand, Tailwind |
 | [Landing Creative](#) | Page d’accueil animée pour une startup | Next.js, Framer Motion, SCSS |
 
+<br> 
 ---
-
+<br> 
 
 ### 📊 Stats GitHub
 
